@@ -21,6 +21,10 @@ El objetivo de este proyecto es desarrollar un modelo de aprendizaje automático
 - Python: Pandas, NLTK, Scikit-Learn
 - Jupyter Notebooks
 
+## Conclusión
+
+El modelo de detección de noticias falsas logró una precisión del 95%, lo que demuestra su efectividad en la clasificación de artículos de noticias como falsos o no falsos.
+
 ## Descripción del Dataset
 
 - `train.csv`: Un conjunto de datos de entrenamiento completo con los siguientes atributos:
